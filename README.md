@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Angr1
+- 👀 I’m interested in learning how to code
+-nothing special
